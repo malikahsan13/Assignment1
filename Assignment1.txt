@@ -1,0 +1,11 @@
+Stages of Git
+
+working directory => in which we are making changes currently or adding new feature or code.
+
+staging area => when you complete your code changes you use git add command to move your changes to stage area that is temporary area.
+
+local repo => next stage after staging is local repo where all code resides and when code is committed changes from stage area becomes part of local repo.
+
+remote repo => after committing all code in local repo we need to push the changes to remote repo that is on github. so that other team members can access new changes.
+
+
