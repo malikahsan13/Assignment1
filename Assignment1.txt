@@ -43,3 +43,33 @@ testing at Continous Delivery level (staging) then deploy on production manually
 2) You don't need to acquire space for setting up hardware.
 
 3) You don't face scalability issues as Cloud plateform auto scale up system as per requirements that makes request handling easy.
+
+
+=============================================================
+
+
+
+1) Agile:
+
+in agile methodology sprints are created when all sprint modules/tasks completed then code is deployed. What we do is get requirement, design, develop and test. If test phase passed then it is deployed on production.
+
+2) DevOps:
+
+on the other hand DevOps is same as Agile except it includes deployment when a feature/ modules is ready in automated way. It is basically deploying error free code then maintain and monitor. 
+
+
+==============================================================
+
+git:
+
+git is software insalled locally.
+
+git manages source code and tracks source code history.
+
+github:
+
+github is cloud based.
+
+remote repo resides on github.
+
+github is service.
