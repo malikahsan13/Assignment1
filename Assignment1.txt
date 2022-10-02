@@ -20,3 +20,17 @@ remote repo => after committing all code in local repo we need to push the chang
 2) git reset --mixed HEAD~1 => it will move changes back to working area
 
 3) git reset --hard HEAD~1 => it will remove all changes from working area as well.s
+
+by default is used --mixed like if you use git reset HEAD~1 it will execute with --mixed flag
+
+======================================================
+
+1) CI stands for Continous Integration and it is basically integrating modules of different developers in central repository
+
+in automated way.
+
+2) Continous Delivery it is basically deploying project on pre prod envrionment that is staging in automated way.
+
+3) Continous Deployment it is basically deploying project on main production envrionment in automated way. There may be chance that most of companies do manual 
+
+testing at Continous Delivery level (staging) then deploy on production manually.
