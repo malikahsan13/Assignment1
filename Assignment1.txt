@@ -34,3 +34,12 @@ in automated way.
 3) Continous Deployment it is basically deploying project on main production envrionment in automated way. There may be chance that most of companies do manual 
 
 testing at Continous Delivery level (staging) then deploy on production manually.
+
+
+==========================================================
+
+1) Cloud Computing you dont have to worry about hardware procurement and configuration.
+
+2) You don't need to acquire space for setting up hardware.
+
+3) You don't face scalability issues as Cloud plateform auto scale up system as per requirements that makes request handling easy.
